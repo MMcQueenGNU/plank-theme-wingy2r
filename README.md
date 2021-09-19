@@ -1,3 +1,7 @@
+Author: https://github.com/darim92/wingy2r
+
+https://www.gnome-look.org/p/1192956
+
 # Wingy2 Reloaded
 A minimal Plank Theme.
 
